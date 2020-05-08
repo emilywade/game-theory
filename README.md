@@ -5,3 +5,6 @@
 - Polytopes
 - Support Enumeration
 - The Lemke Howson Algorithm
+- Evolutionary Dynamics
+- Evolutionary Game Theory
+- Moran Processes
